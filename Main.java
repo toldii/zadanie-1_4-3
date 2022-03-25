@@ -8,7 +8,7 @@ class Main{
     double h = scan.nextInt();
     double x = 0.5;
     double wynik = x*a*h;
-    System.out.println("pole koła pierwszego wynosi: " +  wynik);
+    System.out.println("pole trójkąta wynosi: " +  wynik);
 
   }
 }
